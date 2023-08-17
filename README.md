@@ -1,5 +1,3 @@
-# Transforming-Patient-Care-with-Advanced-Sepsis-Detection
-
 # Transforming Patient Care with Sepsis Detection 🏥
 
 Welcome to the "Transforming Patient Care with Sepsis Detection" project repository! This README provides an in-depth overview of our journey to revolutionize patient care through advanced sepsis detection.
